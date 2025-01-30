@@ -1,4 +1,6 @@
-- 👋 lacufpe - Laboratório de Automação e Controle - UFPE
+<img src="LogoLAC.png" alt="GitHub Logo" width="100">
+
+# Laboratório de Automação e Controle - UFPE
 - 👀 Repositório para os projetos desenvolvidos e usados no Laboratório de Automação e Controle
 
 <!---
